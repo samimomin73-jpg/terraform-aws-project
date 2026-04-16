@@ -69,8 +69,10 @@ terraform apply
 ---
 
 ## 📸 Screenshots
-<img width="1919" height="1079" alt="Screenshot 2026-04-05 181003" src="https://github.com/user-attachments/assets/0bf5da5a-fa7c-43ff-8116-6de78dacd09d" />
-<img width="1919" height="1079" alt="Screenshot 2026-04-05 113507" src="https://github.com/user-attachments/assets/19101e74-d1eb-43ea-b719-80e62cbfda6e" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-16 223758" src="https://github.com/user-attachments/assets/7b2743da-c378-4794-b7b5-9bd419a60d21" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-16 223822" src="https://github.com/user-attachments/assets/ae02b5c0-c5bc-4acc-b0d9-d6ebe18fca13" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-16 224827" src="https://github.com/user-attachments/assets/9eac26f1-4490-426b-aaf1-e3407fc065fa" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-16 225313" src="https://github.com/user-attachments/assets/40dd74da-a664-49c1-b381-194dfab8eca2" />
 
 
 
