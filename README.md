@@ -69,11 +69,11 @@ terraform apply
 ---
 
 ## 📸 Screenshots
+<img width="1919" height="1079" alt="Screenshot 2026-04-05 181003" src="https://github.com/user-attachments/assets/0bf5da5a-fa7c-43ff-8116-6de78dacd09d" />
+<img width="1919" height="1079" alt="Screenshot 2026-04-05 113507" src="https://github.com/user-attachments/assets/19101e74-d1eb-43ea-b719-80e62cbfda6e" />
 
-(Add your screenshots here)
 
-Example:
-![Project Screenshot](screenshots/output.png)
+
 
 ---
 
