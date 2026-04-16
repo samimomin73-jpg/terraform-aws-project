@@ -74,27 +74,3 @@ terraform apply
 <img width="1920" height="1080" alt="Screenshot 2026-04-16 224827" src="https://github.com/user-attachments/assets/9eac26f1-4490-426b-aaf1-e3407fc065fa" />
 <img width="1920" height="1080" alt="Screenshot 2026-04-16 225313" src="https://github.com/user-attachments/assets/40dd74da-a664-49c1-b381-194dfab8eca2" />
 
-
-
-
----
-
-## ⚠️ Note
-
-* Always run `terraform destroy` after testing to avoid AWS charges
-* Do not upload sensitive files like `.tfstate`
-
----
-
-## 🎯 Key Highlights
-
-* Modular Terraform structure
-* Multi-service AWS infrastructure
-* Beginner to intermediate level DevOps project
-* Follows best practices
-
----
-
-## 👨‍💻 Author
-
-Sami
